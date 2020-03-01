@@ -1,0 +1,21 @@
+.kamu{
+    background-image: url(../image/background2.png);
+    background-size: 100%;
+    height: 700px;
+    margin-top: -65px;
+}
+ul{
+    list-style-type: none;
+}
+.list-materi{
+    list-style-type: none;
+    background-color: orange;
+    padding: 10px;
+    color: white;
+    margin: 2px;
+}
+.materi{
+    background-color: rgba(0, 0, 0, 0.137);
+    border-radius: 10px;
+    padding: 20px;
+}

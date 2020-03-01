@@ -1,0 +1,24 @@
+.btn-tambah{
+    margin-top: 1px;
+    margin-bottom: 10px;
+}
+.bg-kelas{
+    background-image: url(../image/designbackground.jpg );
+    background-size: 100%;
+    height: 200px;
+}
+.footer{
+    margin-top: -50px;
+    background-color: rgb(255, 107, 38);
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white
+}
+
+.footer img{
+    height: 50px;
+}
+.bg-orange{
+    background-color: rgb(255, 107, 38);
+}

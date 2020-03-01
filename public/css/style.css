@@ -1,0 +1,85 @@
+/*------ index ------*/
+.header{
+    background-color: #FFB969;
+    padding: 3px;
+    color: white;
+}
+.awal{
+    background-image: url("../image/background.png");
+    color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 700px;
+    background-size: 100%;
+    padding: 150px;
+    margin-top: -60px;
+    /* margin-bottom: 0px; */
+}
+.navbar-transparant{
+    background-color: transparent;
+}
+.btn{
+    margin-left: 10px;
+}
+.navbar-brand a{
+    color: white;
+}
+/* .nav-item a{
+    color: orange !important;
+}
+.nav-item a:hover{
+    color: rgb(196, 127, 0) !important;
+} */
+.footer{
+    background-color: #FFB969;
+    padding: 10px;
+    color: white
+}
+.footer img{
+    height: 50px;
+}
+/*------ end of index ------*/
+/*------ academy ------*/
+
+.academy-beckground{
+    background-image: url(../image/background2.png);
+    /* height: 850px; */
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.daftar-kelas{
+    border: 2px black solid;
+}
+.btn-lerning{
+    height: 50%;
+}
+.btn-academy{
+    height: 40px;
+    width: 130px;
+    background-color: rgba(0, 0, 0, 0.315);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border-radius: 50px;
+}
+.btn-academy:hover{
+    background-color: rgba(0, 0, 0, 0.541);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.judul-academy{
+    color: orange;
+    font-weight: bold;
+}
+.link-belajar{
+    text-decoration: none;
+    color: blue;
+}
+.link-belajar:hover{
+    text-decoration: none;
+    color: rgb(2, 2, 170);
+}
+
+/*------ end of academy ------*/

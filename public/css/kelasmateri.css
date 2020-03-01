@@ -1,0 +1,45 @@
+.done{
+    background-color: rgb(231, 231, 231);
+}
+.materi{
+    background-color: whitesmoke;
+    padding: 20px;
+}
+.liststicky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+.list{
+    width: 300px;
+    position: relative;
+}
+.footer{
+    background-color: #FFB969;
+    padding: 10px;
+    color: white
+}
+.footer img{
+    height: 50px;
+}
+.jumbotron{
+    background-image: url(../image/designbackground.jpg);
+    background-size: 100%;
+    height: 200px;
+    max-height: 200px;
+    /* padding-top: 0px; */
+    margin-bottom: 0px;
+}
+nav{
+    margin-bottom: 10px;
+}
+.bg-orange{
+    background-color: rgb(255, 107, 38);
+}
