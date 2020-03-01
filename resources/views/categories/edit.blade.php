@@ -20,7 +20,7 @@
             <div class="invalid-feedback">
               {{$errors->first('name')}}
             </div>
-            <label for="">Category slug</label>
+            <label for="">Category Slug</label>
             <input type="text" class="form-control {{$errors->first('slug') ? "is-invalid" : ""}}" value="{{$category->slug}}" name="slug">
             <div class="invalid-feedback">
               {{$errors->first('slug')}}
